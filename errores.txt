@@ -1,5 +1,14 @@
-Error 1:
+Error 1: Añadir el formato:
 
-Error 2:
+    a:hover {color: #0aa1dd;
+            background-color: white;}
+
+Error 2: En la hoja CSS cambiar el "#" del .navigation__link por "." 
 
 Error 3: 
+
+##BONUS
+He añadido al estily del anchor:
+transition-delay: 0.5s;
+
+pero no acaba de funcionar como en el video
