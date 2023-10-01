@@ -5,10 +5,16 @@ Error 1: Añadir el formato:
 
 Error 2: En la hoja CSS cambiar el "#" del .navigation__link por "." 
 
-Error 3: 
+Error 3: He añadido los siguentes estilos a la classe .navigation__link:
+       
+        text-align: center;
+         width: 100%;
+
+        pero no es exactamente igual que el ejemplo
+
 
 ##BONUS
-He añadido al estily del anchor:
+He añadido al estilo del anchor:
 transition-delay: 0.5s;
 
-pero no acaba de funcionar como en el video
+pero no acaba de funcionar como en el video 

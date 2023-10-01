@@ -19,18 +19,20 @@ body {
     background-color: #0aa1dd;
     padding: center;
     border-radius: 4rem;
-}
+      }
 
 .navigation__link {
     color: white;
-    text-decoration: none;
+    text-decoration:none;
     border-radius: 3rem;
     padding: 1rem 2rem;
     font-size: 1.5rem;
-}
+    text-align: center;
+    width: 100%;
+ }
 
 a:hover {
     color: #0aa1dd;
     background-color: white;
     transition-delay: 0.5s;
-  }
+     }
